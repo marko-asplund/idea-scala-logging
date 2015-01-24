@@ -6,7 +6,7 @@ the following errors:
 - Cannot resolve symbol println
 - Cannot resolve symbol debug
 
-Here's a [screenshot](images/idea-project-pane.png) of the IDEA project pane.
+Here's a [screenshot](images/idea-project-pane.png?raw=true) of the IDEA project pane.
 
 Environment
 - Mac OS X 10.10.1
