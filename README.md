@@ -12,3 +12,5 @@ Environment
 - Mac OS X 10.10.1
 - Oracle Java 8
 - IDEA 14.0.2 & Scala plugin 1.2.1
+
+==> this issue was caused by bug [SCL-8025](https://youtrack.jetbrains.com/issue/SCL-8025)
